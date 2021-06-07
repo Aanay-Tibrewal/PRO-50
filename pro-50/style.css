@@ -1,0 +1,25 @@
+.origami{
+    display : flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: white;
+    border:solid;
+}
+
+body{
+    background-color:yellow;
+}
+
+h1{
+    border:solid;
+    background-color: lawngreen;
+    font-family:serif;
+    text-align: center;
+}
+
+.menu{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-family:cursive;
+    font-size: 15px;
+}
